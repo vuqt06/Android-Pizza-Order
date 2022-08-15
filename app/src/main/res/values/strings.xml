@@ -2,4 +2,8 @@
     <string name="app_name">Pizza Order</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diavolo">Diavolo</string>
+    <string name="funghi">Funghi</string>
+    <string name="parmesan">Parmesan</string>
+    <string name="chili_oil">Chili Oil</string>
 </resources>
